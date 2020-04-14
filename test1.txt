@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is AEE6-0358
+
+ Directory of C:\Users\a\Desktop\my project
+
+14-04-2020  17:59    <DIR>          .
+14-04-2020  17:59    <DIR>          ..
+14-04-2020  17:59                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  185,358,782,464 bytes free
